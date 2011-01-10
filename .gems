@@ -1,0 +1,7 @@
+less
+erubis
+sinatra --version 1.0
+rdiscount
+maruku
+wkhtmltopdf-binary 
+ronn
