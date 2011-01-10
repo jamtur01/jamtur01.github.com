@@ -2,8 +2,10 @@ jamtur01(7) -- Puppet, Security, Ruby, Operations, DevOps
 =============
 
 James Turnbull
+
 <james@lovedthanlost.net>
 503-734-8571
+
 430 SW 13th St. 
 Apt #1009
 Portland, OR 97209  
