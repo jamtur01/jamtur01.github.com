@@ -42,13 +42,13 @@ OPTIONS
 STANDARDS
 ---------
 
-  * Leadership & Management
+  * Leadership & Management:
     Strong leadership and management skills.
 
   * Communication:
     Excellent written and verbal communication skills.
 
-  * Business Development
+  * Business Development:
     Solid track record growing teams and organisations.
 
 HISTORY
