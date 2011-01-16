@@ -4,11 +4,13 @@ jamtur01(7) -- Operations, Puppet, Security, Ruby, DevOps
 James Turnbull
 
 <james@lovedthanlost.net>
-503-734-8571
 
-430 SW 13th St. 
-Apt #1009
-Portland, OR 97209  
+Phone: 1-503-734-8571
+
+Address: 
+         430 SW 13th Street 
+         Apt #1009
+         Portland, OR 97209  
 
 SYNOPSIS
 --------
