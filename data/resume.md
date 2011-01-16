@@ -1,4 +1,4 @@
-jamtur01(7) -- Puppet, Security, Ruby, Operations, DevOps
+jamtur01(7) -- Operations, Puppet, Security, Ruby, DevOps
 =============
 
 James Turnbull
@@ -13,8 +13,8 @@ Portland, OR 97209
 SYNOPSIS
 --------
 
-James is an experienced Operations and Security guy with over twenty years 
-of experience in startups, banking, finance, pharmaceutical, telecommunications 
+James is an experienced Operations and Security professional with over twenty years 
+of experience in startups, banking & finance, pharmaceutical, telecommunications 
 and outsourcing.
 
 He has managed operations and security teams, worked as an architect on large scale 
@@ -25,16 +25,16 @@ OPTIONS
 -------
 
   * --operations:
-    Operations, Devops, Puppet, management, metrics, cultural change
+    Devops, Puppet, Operations Architecture, Service Management, metrics, cultural change
 
   * --security:
-    Infrastructure, eFraud, Security Operations, Risk, Program Management 
+    Infrastructure, eFraud, Security Operations, Security Education, Risk, Program Management 
 
   * --ruby:
     MRI, Sinatra, Rbot, Redmine, general hackery
 
   * --platforms:
-    Linux, BSD, Solaris, Cisco, Checkpoint, Windows.
+    Linux, BSD/OSX, Solaris, AS/400, Cisco, Checkpoint, Windows.
 
   * --other:
     Author of five published books, interests in wine, food, books and photography
@@ -43,29 +43,29 @@ STANDARDS
 ---------
 
   * Leadership & Management:
-    Strong leadership and management skills.
+    Lead small and large teams including technical and operational leadership roles
 
   * Communication:
     Excellent written and verbal communication skills.
 
   * Business Development:
-    Solid track record growing teams and organisations.
+    Good track record of growing teams, sales, service levels, products and organisations.
 
 HISTORY
 -------
 
-  * Puppet Labs (2010 to -, Full Time):
+  * Puppet Labs (2010 to now):
 
     Runs Operations and Professional Services.
     
     Contact: Luke Kanies, <luke@puppetlabs.com>
     <http://www.puppetlabs.com>  
 
-  * National Australia Bank (2006 to 2010, Full Time):
+  * National Australia Bank (2006 to 2010):
 
-    Manager of NABCERT
+    Manager of nabCERT
 
-    Managed CERT team including eFraud, Penetration testing, Vulnerability Management, 
+    Managed CERT team including eFraud, Penetration Testing, Vulnerability Management, 
     Security Monitoring & Metrics, Investigations, and Security Research.
 
     <http://www.nab.com.au>  
