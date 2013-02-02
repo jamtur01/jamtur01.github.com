@@ -67,6 +67,6 @@ namespace :deploy do
     # this assumes you have made a remote called github
     # `git remote add github git@github.com:username/username.github.com.git`
     # this should push your resume to http://username.github.com
-    sh "git push github master"
+    sh "git push origin master"
   end
 end
