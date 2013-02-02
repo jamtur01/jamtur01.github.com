@@ -56,9 +56,7 @@ HISTORY
 
   * Puppet Labs (2010 to now):
 
-    VP
-    
-    Runs Business Development and Client Services
+    VP Business Development and Client Services
     
     Contact: Luke Kanies, <luke@puppetlabs.com>
     <http://www.puppetlabs.com>  
