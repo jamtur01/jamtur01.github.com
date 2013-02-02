@@ -8,9 +8,7 @@ James Turnbull
 Phone: 1-503-734-8571
 
 Address: 
-         430 SW 13th Street 
-         Apt #1009
-         Portland, OR 97209  
+      Brooklyn, NY, 11201
 
 SYNOPSIS
 --------
@@ -27,7 +25,7 @@ OPTIONS
 -------
 
   * --operations:
-    Devops, Puppet, Operations Architecture, Service Management, metrics, cultural change
+    DevOps, Puppet, Operations Architecture, Service Management, metrics, cultural change
 
   * --security:
     Infrastructure, eFraud, Security Operations, Security Education, Risk, Program Management 
@@ -39,7 +37,7 @@ OPTIONS
     Linux, BSD/OSX, Solaris, AS/400, Cisco, Checkpoint, Windows.
 
   * --other:
-    Author of five published books, interests in wine, food, books and photography
+    Author of six published books, interests in wine, food, books and photography
 
 STANDARDS
 ---------
@@ -58,7 +56,9 @@ HISTORY
 
   * Puppet Labs (2010 to now):
 
-    Runs Operations and Professional Services.
+    VP
+    
+    Runs Business Development and Client Services
     
     Contact: Luke Kanies, <luke@puppetlabs.com>
     <http://www.puppetlabs.com>  
@@ -77,5 +77,5 @@ _Further references available upon request_
 SEE ALSO
 --------
 
-[GitHub](http://github.com/jamur01)  
+[GitHub](http://github.com/jamtur01)  
 [Blog](http://www.kartar.net)  
