@@ -54,7 +54,11 @@ STANDARDS
 HISTORY
 -------
 
-  * Puppet Labs (2010 to now):
+  * Docker Inc (2013 to now):
+
+    VP Services
+
+  * Puppet Labs (2010 to 2013):
 
     VP Business Development and Client Services
     
