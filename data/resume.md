@@ -79,7 +79,6 @@ HISTORY
 
     VP Business Development and Client Services
     
-    Contact: Luke Kanies, <luke@puppetlabs.com>
     <http://www.puppetlabs.com>  
 
   * National Australia Bank (2006 to 2010):
@@ -98,5 +97,5 @@ SEE ALSO
 
 [GitHub](http://github.com/jamtur01)  
 [Blog](http://www.kartar.net)  
-[Twitter](http://twitter.com/kartar)
+[Twitter](http://twitter.com/kartar)  
 [Books](http://www.jamesturnbull.net)
