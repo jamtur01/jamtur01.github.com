@@ -24,7 +24,7 @@ an abiding interest in metrics and measurement.
 OPTIONS
 -------
 
-  * --engineering
+  * --engineering:
     Leadership, Agile, Architecture, and hiring.
 
   * --operations:
