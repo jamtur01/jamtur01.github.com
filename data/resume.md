@@ -59,9 +59,21 @@ HISTORY
 
   * Kickstarter (2014 to now):
 
+    VP of Engineering
+    
+    <http://www.kickstarter.com>
+    
   * Docker Inc (2013 to 2014):
 
     VP Services
+    
+    <http://www.docker.com>
+
+  * Venmo (2013 to 2013) - acquired by PayPal:
+  
+    VP of Engineering
+
+    <http://www.venmo.com>
 
   * Puppet Labs (2010 to 2013):
 
