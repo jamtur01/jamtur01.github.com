@@ -59,7 +59,7 @@ HISTORY
 
   * Kickstarter (2014 to now):
 
-    VP of Engineering
+    CTO
     
     <http://www.kickstarter.com>
     
