@@ -1,4 +1,4 @@
-jamtur01(7) -- Engineering, Operations, Security, Ruby, DevOps
+jamtur01(7) -- Leadership, Engineering, Operations, Security, DevOps
 =============
 
 James Turnbull
@@ -57,7 +57,7 @@ STANDARDS
 HISTORY
 -------
 
-  * Kickstarter (2014 to now):
+  * Kickstarter (2014 to 2016):
 
     CTO
     
