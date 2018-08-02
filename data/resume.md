@@ -1,87 +1,84 @@
-jamtur01(7) -- Leadership, Engineering, Operations, Security, DevOps
+jamtur01(7) -- Leadership, Engineering, Operations, Security, and Startups.
 =============
 
 James Turnbull
 
 <james@lovedthanlost.net>
 
-Phone: 1-503-734-8571
-
-Address: 
-      Brooklyn, NY, 11201
+Location: 
+      Brooklyn, NY
 
 SYNOPSIS
 --------
 
-James is an experienced Engineer, Operations and Security professional with over twenty years 
+James is an experienced engineer, author, operations and security professional with over twenty years 
 of experience in startups, banking & finance, pharmaceutical, telecommunications 
 and outsourcing.
 
-He has managed engineering, operations and security teams, worked as an architect on large scale 
-infrastructure projects, developed a number of open source projects and has 
-an abiding interest in metrics and measurement.
+He has managed and grown engineering, operations and security teams, worked as an architect on large scale 
+infrastructure projects, developed open source projects and communities, written a number of technology books, and has an abiding interest in metrics and measurement.
 
 OPTIONS
 -------
 
   * --engineering:
-    Leadership, Agile, Architecture, and hiring.
+    Leadership, Agile, Architecture, and hiring
 
   * --operations:
-    DevOps, Docker, Puppet, Operations Architecture, Service Management, metrics, cultural change
+    Monitoring, SRE, DevOps, Docker, Puppet, Operations Architecture, Service Management, metrics, cultural change
 
   * --security:
     Infrastructure, eFraud, Security Operations, Security Education, Risk, Program Management 
 
-  * --ruby:
-    MRI, Sinatra, Rails, general hackery
-
-  * --platforms:
-    Linux, BSD/OSX, Solaris, AS/400, Cisco, Checkpoint, Windows.
-
   * --other:
-    Author of seven published books, interests in wine, food, books and photography
+    Author of eleven published books, interests in wine, food, books and photography
 
 STANDARDS
 ---------
 
   * Leadership & Management:
-    Lead small and large teams including technical and operational leadership roles
+    Lead small and large teams including engineering, technical, and operational leadership roles
 
   * Communication:
     Excellent written and verbal communication skills.
 
-  * Business Development:
-    Good track record of growing teams, sales, service levels, products and organisations.
+  * Startups and Business Development:
+    Good track record of building go-to-market strategy, business models, growing teams, sales, service levels, products and organizations.
 
 HISTORY
 -------
 
-  * Kickstarter (2014 to 2016):
+  * Empatico:
+
+    Founding CTO
+    
+    <http://www.empatico.org>
+    
+  * Kickstarter:
 
     CTO
     
     <http://www.kickstarter.com>
     
-  * Docker Inc (2013 to 2014):
+  * Docker Inc:
 
     VP Services
     
     <http://www.docker.com>
 
-  * Venmo (2013 to 2013) - acquired by PayPal:
-  
+  * Venmo:
+
     VP of Engineering
 
     <http://www.venmo.com>
 
-  * Puppet Labs (2010 to 2013):
+  * Puppet:
 
-    VP Business Development and Client Services
+    VP Technical Operations, Business Development and Client Services
     
-    <http://www.puppetlabs.com>  
+    <http://www.puppet.com>  
 
-  * National Australia Bank (2006 to 2010):
+  * National Australia Bank:
 
     Manager of nabCERT
 
@@ -90,12 +87,12 @@ HISTORY
 
     <http://www.nab.com.au>  
 
-_Further references available upon request_
+_References available upon request_
 
 SEE ALSO
 --------
 
-[GitHub](http://github.com/jamtur01)  
-[Blog](http://www.kartar.net)  
-[Twitter](http://twitter.com/kartar)  
-[Books](http://www.jamesturnbull.net)
+[GitHub](https://github.com/jamtur01)  
+[Blog](https://www.kartar.net)  
+[Twitter](https://twitter.com/kartar)  
+[Books](https://turnbull.press)
