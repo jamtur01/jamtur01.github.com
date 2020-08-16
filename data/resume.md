@@ -47,6 +47,21 @@ STANDARDS
 
 HISTORY
 -------
+  * Timber
+
+    VP of Engineering
+
+    <https://timber.io>
+
+  * Glitch
+
+    VP of Engineering
+
+   <https://www.glitch.com>
+  
+  * Microsoft
+
+    CTO-in-residence
 
   * Empatico:
 

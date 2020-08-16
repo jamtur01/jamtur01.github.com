@@ -1,4 +1,4 @@
-#!/usr/bin/ruby1.8
+#!/usr/bin/ruby
 # A Sinatra app for displaying one's resume in multiple formats
 
 require 'rubygems'
