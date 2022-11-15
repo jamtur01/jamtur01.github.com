@@ -47,6 +47,12 @@ STANDARDS
 
 HISTORY
 -------
+  * Sotheby's
+  
+    SVP of Engineering
+    
+    <https://www.sothebys.com>
+    
   * Timber
 
     VP of Engineering
@@ -57,7 +63,7 @@ HISTORY
 
     VP of Engineering
 
-   <https://www.glitch.com>
+    <https://www.glitch.com>
   
   * Microsoft
 
