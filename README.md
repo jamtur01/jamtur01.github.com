@@ -7,7 +7,8 @@ A repository that holds information about me that can be used for speaking engag
 ## Find me online
 
  - GitHub [jamtur01](https://github.com/jamtur01) 
- - Twitter [@kartar](https://twitter.com/kartar) 
+ - Twitter [@kartar](https://twitter.com/kartar)
+ - Mastodon <a href="https://mastodon.online/@kartar" rel="me" title="James Turnbull on Mastodon" target="_blank">@kartar@mastodon.online</a>
  - LinkedIn [turnbulljames](https://www.linkedin.com/in/turnbulljames/)
  
 ## Links to my personal sites
