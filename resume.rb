@@ -3,7 +3,7 @@
 
 require 'rubygems'
 require 'sinatra'
-require 'less'
+#require 'less'
 require 'rdiscount'
 require 'maruku'
 require 'ronn'
@@ -17,10 +17,10 @@ get '/' do
    erubis :index, :locals => { :title => title, :resume => resume, :formats => true }
 end
 
-get '/style.css' do
-   content_type 'text/css', :charset => 'utf-8'
-   less :style
-end
+#get '/style.css' do
+#   content_type 'text/css', :charset => 'utf-8'
+#   less :style
+#end
 
 get '/latex' do
   content_type 'application/x-latex'
