@@ -15,7 +15,6 @@ A repository that holds information about me that can be used for speaking engag
 
  - [kartar.net](https://kartar.net) Blog - tech and adjacent.
  - [turnbull.press](https://turnbull.press) Turnbull Press books.
- - [that.tattoo](https://that.tattoo) That Tattoo
 
 ## Author
 
