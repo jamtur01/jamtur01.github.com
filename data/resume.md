@@ -116,4 +116,5 @@ SEE ALSO
 [GitHub](https://github.com/jamtur01)  
 [Blog](https://www.kartar.net)  
 [Twitter](https://twitter.com/kartar)  
+[Mastodon](https://mastodon.online/@kartar)
 [Books](https://turnbull.press)
